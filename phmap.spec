@@ -6,6 +6,7 @@ Group:		Monitoring
 License:	GPL
 URL:		http://www.atnum.com/~sephail/devel/proj/phmap.htm
 Source0:	%{name}-%{version}.tar.bz2
+BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 Phmap is a "war dialer" used for detecting which phone numbers in

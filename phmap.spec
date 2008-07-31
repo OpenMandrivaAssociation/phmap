@@ -1,7 +1,7 @@
 Summary:	A war dialer
 Name:		phmap
 Version:	1.0
-Release:	%mkrel 8
+Release:	%mkrel 9
 Group:		Monitoring
 License:	GPL
 URL:		http://www.atnum.com/~sephail/devel/proj/phmap.htm

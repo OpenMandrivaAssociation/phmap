@@ -8,6 +8,7 @@ URL:		https://www.atnum.com/~sephail/devel/proj/phmap.htm
 Source0:	%{name}-%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}
 
+BuildRequires:	make
 %description
 Phmap is a "war dialer" used for detecting which phone numbers in
 a list have an active carrier signal. An example use of this
